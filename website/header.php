@@ -3,6 +3,9 @@
 <title>Toys For U</title>
 <meta name="description" content="Toys for You is your ultimate online hobby store dedicated in providing YOU an innovative approach to online shopping. At Toys for You, customer satisfaction is of utmost importance. That is why we aim to provide our valued customers with the highest level of shopping experience by putting together toys that would match your interest. Be it gadgets, accessories, computers, laptops, camera, cellphone, music instruments, science toys, or just about anything that interests you, we would be your best online shopping partner." />
 <meta name="keywords" content="gadgets, accessories, computers, laptops, camera, cellphone, music instruments, science toys" />
+<!-- Google verification -->
+<meta name="google-site-verification" content="pw5dFjwA6freMTT5L8sXRrY1iaWYfc4O7ldOY3IbihI" />
+<!-- Bing verification is throguh an xml file in the server -->
 <!-- This section is for Facebooks "Open Graph Tags" -->
 <meta property="og:title" content="Toys For U" />
 <meta property="og:type" content="company" />
